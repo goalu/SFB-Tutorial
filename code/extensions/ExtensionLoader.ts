@@ -1,3 +1,7 @@
+// Copyright <first-edit-year> Amazon.com, Inc. or its affiliates. All Rights Reserved.
+// SPDX-License-Identifier: LicenseRef-.amazon.com.-AmznSL-1.0
+// Licensed under the Amazon Software License  http://aws.amazon.com/asl/
+
 import { DriverExtension, InstructionExtension, ImporterExtension } from '@alexa-games/sfb-f';
 import { ExtensionLoaderParameter, AlexaExtension, AlexaAPLExtension, AlexaAudioPlayerExtension, AlexaMonetizationExtension } from '@alexa-games/sfb-skill';
 

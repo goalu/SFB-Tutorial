@@ -1,3 +1,7 @@
+// Copyright <first-edit-year> Amazon.com, Inc. or its affiliates. All Rights Reserved.
+// SPDX-License-Identifier: LicenseRef-.amazon.com.-AmznSL-1.0
+// Licensed under the Amazon Software License  http://aws.amazon.com/asl/
+
 import { SkillBuilders, HandlerInput, DynamoDbPersistenceAdapter } from 'ask-sdk';
 import { ConfigAccessor, SFBRequestHandlerFactory, UserAgentHelper } from '@alexa-games/sfb-skill';
 import * as path from 'path';
